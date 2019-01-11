@@ -1,0 +1,37 @@
+/* VS Table */
+
+.vc_tta-tabs-list{
+	list-style: none!important;
+  display: flex !important;
+	justify-content: center !important;
+  margin-top: 30px !important;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-tab>a{
+	padding: 5px 20px !important;
+	border-radius: 8px !important;
+  border: 1px solid #303030 !important;
+	background: #fff !important;
+}
+
+.wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active>a {
+	background: #303030 !important;
+  color: white !important;
+}
+
+.wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels{
+	background-color: #fff !important;
+}
+
+.wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels, .wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels::after, .wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels::before{
+	border-color: #fff !important;
+}
+
+
+.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-tab{
+	margin-left: 20px !important;
+}
+
+.wpb-js-composer .vc_tta.vc_general .vc_tta-tab.vc_active>a::after, .wpb-js-composer .vc_tta.vc_general .vc_tta-tab.vc_active>a::before{
+	border-style: none !important;
+}
