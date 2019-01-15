@@ -1,0 +1,94 @@
+body{
+padding: 0;
+}
+
+#wrapper, #main, .absolute-footer{
+	border-radius: 0 !important;
+}
+  
+.header, .header-wrapper{
+  	padding: 5px 0;
+  }
+  .wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body{
+		background-color: transparent !important;
+  }
+  
+  .wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body, .wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body::after, .wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body::before{
+		border-color: transparent !important;
+  }
+  
+  .wpb-js-composer .vc_tta.vc_general .vc_tta-panel-body{
+  	padding: 14px 0 !important;
+  }
+  
+  .wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title>a{
+  	background-color: transparent !important;
+    border-radius: 12px !important;
+    color: #303030 !important;
+    border: 1px solid #303030 !important;
+  }
+  
+  .wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title>a{
+  	background-color: #303030 !important;
+    border-radius: 12px !important;
+    color: white !important;
+  }
+  .wpb-js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading{
+		border-color: transparent !important;
+		background-color: transparent !important; 	
+  }
+  
+  .free-delivery .lagos{
+  	width: 250px;
+  }
+  
+  .inner-cta > .vc_column-inner > .wpb_wrapper{
+    flex-direction: column !important;
+    padding: 20px !important;
+  }
+  
+  .inner-cta > .vc_column-inner{
+  	padding-top: 0 !important;
+  }
+  
+  .cta{
+  	text-align: center;
+    margin-right: 0 !important;
+  }
+  
+  .dhvc-form-flat .dhvc-form-input input, .dhvc-form-input:active input{
+    width: 250px !important;} 
+	}
+
+  .dhvc-form-inner, .dhvc-form-inner .vc_row{
+		margin-bottom: 0 !important;
+  }
+
+  .f-footer{
+		flex-direction: column;
+  }
+	
+  .menu-fate-footer-container ul{
+		flex-direction: column !important;
+  }
+
+  .f-footer > div {
+		width: 100%;
+  }
+
+	.f-about h3{
+    display: none;
+	}
+	.f-about p{
+		margin-top: 10px;
+	}
+
+	.f-social h3{
+		font-weight: bold;
+	}
+
+	.mobile-nav.nav.nav-left{
+    justify-content: left !important
+  }
+
+
